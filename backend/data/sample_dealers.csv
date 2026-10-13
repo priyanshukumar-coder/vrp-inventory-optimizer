@@ -1,0 +1,17 @@
+dealer_id,name,latitude,longitude,holding_cost_per_unit,storage_capacity
+0,Central PDC (Ambattur Industrial Hub),13.0983,80.1622,0.0,50000
+1,Adyar Service & Spares Hub,13.0012,80.2565,1.75,1800
+2,T. Nagar Auto Parts Centre,13.0418,80.2341,2.2,2200
+3,Velachery Commercial Motors,12.9796,80.2206,1.45,3000
+4,Guindy Industrial Spare Parts,13.0067,80.2012,1.1,1500
+5,Anna Nagar Premier Automotive,13.0846,80.2179,2.65,2500
+6,Tambaram Outer Hub Workshop,12.9249,80.1,1.25,3500
+7,Porur Express Spares,13.0382,80.1565,1.8,1900
+8,OMR Tech-Corridor Auto,12.9716,80.2536,2.4,2800
+9,Mylapore Heritage Workshop,13.0368,80.2676,1.5,2000
+10,Kilpauk Elite Spares,13.0833,80.2444,2.1,1600
+11,Chromepet Fleet Workshop,12.9516,80.1462,1.15,2400
+12,Perambur North Motors,13.1091,80.2448,1.55,1400
+13,ECR Coastal Auto Service,12.909,80.252,2.3,2600
+14,Nungambakkam Central Motors,13.0601,80.2407,1.95,1750
+15,Saidapet Metropolitan Spares,13.0213,80.2223,1.6,1850
